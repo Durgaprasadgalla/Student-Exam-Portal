@@ -11,7 +11,7 @@ function Dashboard({ onLogout }) {
   useEffect(() => {
     if (token) {
       axios
-        .get("http://localhost:5000/api/exam/status", {
+        .get("https://student-portal-backend-xf7y.onrender.com/api/exam/status", {
           headers: { Authorization: `Bearer ${token}` },
         })
         .then((res) => setSubmitted(res.data.taken))
