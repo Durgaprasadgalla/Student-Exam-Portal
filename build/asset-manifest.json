@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Student-Exam-Portal/static/css/main.3806dc80.css",
+    "main.js": "/Student-Exam-Portal/static/js/main.799c6996.js",
+    "index.html": "/Student-Exam-Portal/index.html",
+    "main.3806dc80.css.map": "/Student-Exam-Portal/static/css/main.3806dc80.css.map",
+    "main.799c6996.js.map": "/Student-Exam-Portal/static/js/main.799c6996.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3806dc80.css",
+    "static/js/main.799c6996.js"
+  ]
+}
