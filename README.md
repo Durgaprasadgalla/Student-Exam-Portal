@@ -124,9 +124,13 @@ URL: https://student-portal-backend-xf7y.onrender.com/api/
 
 
 Body (JSON):
+
 {
+
   "username": "john",
+
   "password": "John@123"
+
 }
 
 
