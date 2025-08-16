@@ -49,7 +49,7 @@ sql
 npm start
 Add environment variables (MONGO_URI, JWT_SECRET, etc.) in Render settings.
 
-Deploy and get your Render backend URL (e.g., https://student-portal-backend-xf7y.onrender.com/api).
+Deploy and get your Render backend URL (e.g., https://student-portal-backend.onrender.com).
 
 3. Frontend Setup (React)
 Step 1: Go to frontend folder
@@ -104,7 +104,9 @@ Backend → Node.js, Express.js, MongoDB
 
 Deployment → Netlify (Frontend), Render (Backend)
 
-Final Live Link:  http://student-eaxm-portal.netlify.app/
+
+FINAL LIVE LINK:  http://student-eaxm-portal.netlify.app/
+
 
 👨‍💻 Author
 Developed by Galla Durga Prasad
