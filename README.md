@@ -19,7 +19,7 @@ This project has two parts:
 git clone <your-repo-link>
 cd new-exam-builder-ace-main
 
-## 2. Backend Setup (Node.js + Express + MongoDB)
+### 2. Backend Setup (Node.js + Express + MongoDB)
 
    
 Step 1: Go to backend folder
@@ -117,7 +117,7 @@ build
 
 Deploy and get your Netlify frontend URL (e.g., https://student-exam-portal.netlify.app).
 
-🔗 Final Setup
+🔗 ### Final Setup
 
 Frontend (Netlify) → http://student-eaxm-portal.netlify.app/
 
@@ -125,7 +125,7 @@ Backend (Render) → https://student-portal-backend-xf7y.onrender.com
 
 Make sure frontend API calls point to the Render backend URL.
 
-🛠️ Tech Stack
+🛠️ ### Tech Stack
 
 Frontend → React, Tailwind/Bootstrap (if used), Axios/Fetch
 
