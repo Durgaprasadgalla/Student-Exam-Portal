@@ -88,7 +88,7 @@ Publish directory:
 
 
 build
-Deploy and get your Netlify frontend URL (e.g., https://student-exam.netlify.app).
+Deploy and get your Netlify frontend URL (e.g., https://student-exam-portal.netlify.app).
 
 🔗 Final Setup
 Frontend (Netlify) → https://student-exam.netlify.app
