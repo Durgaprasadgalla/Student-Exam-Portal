@@ -7,7 +7,7 @@ This project has two parts:
 - **Backend** → Node.js + Express + MongoDB (deployed on **Render**)  
 
 ---
-
+||||||||
 ## 🚀 Project Setup & Deployment
 
 ### 1. Clone the Repository
@@ -104,7 +104,7 @@ Backend → Node.js, Express.js, MongoDB
 
 Deployment → Netlify (Frontend), Render (Backend)
 
-
+||||||||||||
 🚀API Testing with Postman
 
 GET Users
@@ -116,7 +116,10 @@ URL: https://student-portal-backend-xf7y.onrender.com/api/users
 POST User (Register)
 
 Method: POST  
-URL: http://localhost:5000/users
+
+URL: https://student-portal-backend-xf7y.onrender.com/api/
+
+
 Body (JSON):
 {
   "username": "john",
@@ -127,7 +130,7 @@ Body (JSON):
 DELETE User
 
 Method: DELETE  
-URL: http://localhost:5000/users/<userId>
+URL: https://student-portal-backend-xf7y.onrender.com/api/users/<userId>
 
 FINAL LIVE LINK:  http://student-eaxm-portal.netlify.app/
 
