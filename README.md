@@ -19,7 +19,7 @@ This project has two parts:
 git clone <your-repo-link>
 cd new-exam-builder-ace-main
 
-2. Backend Setup (Node.js + Express + MongoDB)
+## 2. Backend Setup (Node.js + Express + MongoDB)
 
    
 Step 1: Go to backend folder
@@ -34,7 +34,9 @@ Step 3: Create .env file inside backend
 env
 
 PORT=5000
+
 MONGO_URI=your-mongodb-uri
+
 JWT_SECRET=your-secret-key
 
 Step 4: Run backend locally
@@ -134,7 +136,7 @@ Deployment → Netlify (Frontend), Render (Backend)
 ||||||||||||
 
 
-🚀API Testing with Postman
+## 🚀API Testing with Postman
 
 GET Users
 
