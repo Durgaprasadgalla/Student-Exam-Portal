@@ -8,6 +8,7 @@ This project has two parts:
 
 ---
 ||||||||
+
 ## 🚀 Project Setup & Deployment
 
 ### 1. Clone the Repository
@@ -105,6 +106,8 @@ Backend → Node.js, Express.js, MongoDB
 Deployment → Netlify (Frontend), Render (Backend)
 
 ||||||||||||
+
+
 🚀API Testing with Postman
 
 GET Users
