@@ -105,6 +105,30 @@ Backend → Node.js, Express.js, MongoDB
 Deployment → Netlify (Frontend), Render (Backend)
 
 
+🚀API Testing with Postman
+
+GET Users
+
+Method: GET  
+URL: https://student-portal-backend-xf7y.onrender.com/api/users
+
+
+POST User (Register)
+
+Method: POST  
+URL: http://localhost:5000/users
+Body (JSON):
+{
+  "username": "john",
+  "password": "John@123"
+}
+
+
+DELETE User
+
+Method: DELETE  
+URL: http://localhost:5000/users/<userId>
+
 FINAL LIVE LINK:  http://student-eaxm-portal.netlify.app/
 
 
