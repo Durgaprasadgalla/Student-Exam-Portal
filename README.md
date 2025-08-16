@@ -108,5 +108,16 @@ Deployment → Netlify (Frontend), Render (Backend)
 FINAL LIVE LINK:  http://student-eaxm-portal.netlify.app/
 
 
+## Screenshots  
+
+### Home Page  
+![Login Page](./assets/screenshots/Login-page.png)
+
+### Dashboard  
+![Dashboard Page](./assets/screenshots/Dashboard-page.png)
+
+### Exam Page  
+![Results Page](./assets/screenshots/Results-page.png)
+
 👨‍💻 Author
 Developed by Galla Durga Prasad
