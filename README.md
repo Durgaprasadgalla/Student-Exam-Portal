@@ -8,8 +8,7 @@ This project has two parts:
 
 
 
-||||||||
-
+|||||||||||||||||||||||||||||||||||||
 
 
 
@@ -117,7 +116,7 @@ build
 
 Deploy and get your Netlify frontend URL (e.g., https://student-exam-portal.netlify.app).
 
-🔗 ### Final Setup
+### 🔗 Final Setup
 
 Frontend (Netlify) → http://student-eaxm-portal.netlify.app/
 
@@ -125,7 +124,7 @@ Backend (Render) → https://student-portal-backend-xf7y.onrender.com
 
 Make sure frontend API calls point to the Render backend URL.
 
-🛠️ ### Tech Stack
+### 🛠️ Tech Stack
 
 Frontend → React, Tailwind/Bootstrap (if used), Axios/Fetch
 
@@ -133,7 +132,7 @@ Backend → Node.js, Express.js, MongoDB
 
 Deployment → Netlify (Frontend), Render (Backend)
 
-||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||
 
 
 ## 🚀API Testing with Postman
