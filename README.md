@@ -6,8 +6,11 @@ This project has two parts:
 - **Frontend** → React (deployed on **Netlify**)  
 - **Backend** → Node.js + Express + MongoDB (deployed on **Render**)  
 
----
+
+
 ||||||||
+
+
 
 ## 🚀 Project Setup & Deployment
 
@@ -40,14 +43,16 @@ Go to Render.
 
 Create New Web Service → Connect your GitHub repo.
 
+https://github.com/Durgaprasadgalla/Student_Portal_Backend
+
 Set build command:
 
 npm install
+
 Start command:
 
-sql
-
 npm start
+
 Add environment variables (MONGO_URI, JWT_SECRET, etc.) in Render settings.
 
 Deploy and get your Render backend URL (e.g., https://student-portal-backend.onrender.com).
@@ -65,6 +70,8 @@ Inside your frontend project, find where the backend API URL is used (e.g., src/
 .env
 
 REACT_APP_API_URL=https://student-portal-backend-xf7y.onrender.com
+
+
 Step 4: Run frontend locally
 
 npm start
@@ -137,6 +144,7 @@ Body (JSON):
 DELETE User
 
 Method: DELETE  
+
 URL: https://student-portal-backend-xf7y.onrender.com/api/users/<userId>
 
 FINAL LIVE LINK:  http://student-eaxm-portal.netlify.app/
