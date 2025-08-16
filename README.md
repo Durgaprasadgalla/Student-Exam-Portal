@@ -111,13 +111,13 @@ FINAL LIVE LINK:  http://student-eaxm-portal.netlify.app/
 ## Screenshots  
 
 ### Home Page  
-![Login Page](./assets/screenshots/Login-page.png)
+![Login Page](./assests/screenshots/Login-page.png)
 
 ### Dashboard  
-![Dashboard Page](./assets/screenshots/Dashboard-page.png)
+![Dashboard Page](./assests/screenshots/Dashboard-page.png)
 
 ### Exam Page  
-![Results Page](./assets/screenshots/Results-page.png)
+![Results Page](./assests/screenshots/Results-page.png)
 
 👨‍💻 Author
 Developed by Galla Durga Prasad
