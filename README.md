@@ -49,7 +49,7 @@ sql
 npm start
 Add environment variables (MONGO_URI, JWT_SECRET, etc.) in Render settings.
 
-Deploy and get your Render backend URL (e.g., https://student-exam-backend.onrender.com).
+Deploy and get your Render backend URL (e.g., https://student-portal-backend-xf7y.onrender.com/api).
 
 3. Frontend Setup (React)
 Step 1: Go to frontend folder
@@ -63,7 +63,7 @@ Inside your frontend project, find where the backend API URL is used (e.g., src/
 
 .env
 
-REACT_APP_API_URL=https://student-exam-backend.onrender.com
+REACT_APP_API_URL=https://student-portal-backend-xf7y.onrender.com
 Step 4: Run frontend locally
 
 npm start
@@ -91,9 +91,9 @@ build
 Deploy and get your Netlify frontend URL (e.g., https://student-exam-portal.netlify.app).
 
 🔗 Final Setup
-Frontend (Netlify) → https://student-exam.netlify.app
+Frontend (Netlify) → http://student-eaxm-portal.netlify.app/
 
-Backend (Render) → https://student-exam-backend.onrender.com
+Backend (Render) → https://student-portal-backend-xf7y.onrender.com
 
 Make sure frontend API calls point to the Render backend URL.
 
@@ -103,6 +103,8 @@ Frontend → React, Tailwind/Bootstrap (if used), Axios/Fetch
 Backend → Node.js, Express.js, MongoDB
 
 Deployment → Netlify (Frontend), Render (Backend)
+
+Final Live Link:  http://student-eaxm-portal.netlify.app/
 
 👨‍💻 Author
 Developed by Galla Durga Prasad
